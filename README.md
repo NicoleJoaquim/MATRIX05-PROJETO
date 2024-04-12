@@ -74,26 +74,6 @@ Sprint | Previsão | Status| Histórico|
 
 </div>
 
-
-
-
-
-
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
-# Requisitos
-
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
-
-  
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
   
 # Backlog do produto
   ![Captura de Tela (3)](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/11a75891-367e-4bef-a8a7-39ef2c3ca47b)
