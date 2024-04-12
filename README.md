@@ -56,12 +56,12 @@ Portanto, o objetivo do projeto, será entregar o dashboard, o qual, irá oferec
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 11/03/2024 a 15/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 11/03/2024 a 15/03/2024 | concluido| [Ver Relatório]() | 
 |01 | 25/03/2024 a 15/04/2024| em progresso| [Ver Relatório](https://drive.google.com/file/d/1kPdtbDLHvU8VxvA2pGEHq9_f9ANoFOko/view?usp=drive_link) | 
-|02| 15/04/2024 a 06/05/2024| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 06/05/2024 a 27/05/2024| a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 27/05/2024 a 17/06/2024| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório](-) | 
+|02| 15/04/2024 a 06/05/2024| a fazer |[Ver Relatório]() | 
+|03| 06/05/2024 a 27/05/2024| a fazer|[Ver Relatório]() | 
+|04| 27/05/2024 a 17/06/2024| a fazer |[Ver Relatório]()  | 
+|Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório]() | 
 
 ## Cronograma
 ![WhatsApp Image 2024-04-10 at 22 04 25](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/18eeab2b-a706-4019-a0a4-9b5ec8f40fef)
