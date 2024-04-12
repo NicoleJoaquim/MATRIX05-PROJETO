@@ -22,7 +22,8 @@ API 1° Semestre - Logística Noturno
 
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+
+
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -32,17 +33,13 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 | Developer Team  | Tatiane de Sousa Pereira             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tatiane-sousa-5b564625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/tatipink)        |
 | Developer Team  | Nicole Siqueira Joaquim               |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-siqueira-2538b1252?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/NicoleJoaquim/)        |
 |  Developer Team  | Isabela Carvalho Cardoso               |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-cardoso-b23a57276/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/isabelacardd)   |
-|  Developer Team  | Eloisa Maria Lucia Wanderley da Rocha    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eloisa-rocha-aa6579302/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=whiteg)](https://github.com/Eloisamlwr)  
+|  Developer Team  | Eloisa Maria Lucia Wanderley da Rocha    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eloisa-rocha-aa6579302?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=whiteg)](https://github.com/Eloisamlwr)  
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+O projeto de mapeamento de cargas do aeroporto de São José dos Campos surge em um contexto de crescente importância da logística e do transporte de mercadorias para o desenvolvimento local e regional. O mapeamento do fluxo de cargas é crucial para garantir operações logísticas fluídas, minimizar tempos de espera e reduzir custos para as empresas que utilizam o aeroporto para transporte de seus produtos.
 
+Portanto, o objetivo do projeto, será entregar o dashboard, o qual, irá oferecer uma visualização clara da exportação de cargas no aeroporto de São José dos Campos, contendo uma representação gráfica das origens e destinos dos municípios, permitindo uma análise eficaz do movimento logístico no aeroporto.
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
@@ -67,7 +64,15 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório](-) | 
 
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+![WhatsApp Image 2024-04-10 at 22 04 25](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/18eeab2b-a706-4019-a0a4-9b5ec8f40fef)
+
+</div>
+
+
+
+
+
+
 
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
@@ -85,13 +90,15 @@ Requisitos não funcionais
 - Power BI / Jira / Canvas
   
 # Backlog do produto
-  
+  ![Captura de Tela (3)](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/11a75891-367e-4bef-a8a7-39ef2c3ca47b)
+
 <div align="center">
     
-![Captura de Tela (3)](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/8bf54245-008d-476f-99f9-bd30363b5368)
 
 </div>
 
+# Funcionalidades e Registros
+![WhatsApp Image 2024-04-11 at 22 58 31](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/0f890bb2-df10-4e60-93d6-b7bb45d5d606)
 
 
 ## Sprint 1. Concepção
