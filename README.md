@@ -49,9 +49,15 @@ Portanto, o objetivo do projeto, será entregar o dashboard, o qual, irá oferec
 
  > GitHub
 
+> Canva
+
+> Slack
+
+
  
  ### Tecnologias da Informação
  >  Google Academico
+
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
