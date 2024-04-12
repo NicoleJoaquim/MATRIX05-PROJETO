@@ -22,7 +22,7 @@ API 1° Semestre - Logística Noturno
 
 
 # Projeto (API) 
-
+Trata-se de um projeto pedagógico alicerçado na Metodologia de Aprendizagem por Projeto Integrador (API), para ensino-aprendizado focado no desenvolvimento de competências e fundamentado nos pilares de aprendizagem com problemas reais (RPBL), validação externa e inteligência ágil. Usando estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Mínimo Produto Viável (MVP). Seguido de sua operação de concepção, projeto, implementação e operação de sistemas e produtos do mundo real (Inicitiva CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC, com definição das datas do kickoff e das sprints.
 
 
 # Equipe
