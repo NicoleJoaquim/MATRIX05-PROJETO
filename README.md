@@ -51,7 +51,6 @@ Portanto, o objetivo do projeto, será entregar o dashboard, o qual, irá oferec
 
 > Canva
 
-> Slack
 
 
  
@@ -135,4 +134,3 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-# projeto
