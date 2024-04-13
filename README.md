@@ -112,7 +112,7 @@ Sprint | Previsão | Status| Histórico|
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Prodct Owner | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Markdown | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
