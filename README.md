@@ -71,6 +71,11 @@ Sprint | Previsão | Status| Histórico|
 ## Burndown
 ![WhatsApp Image 2024-04-11 at 22 58 31](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/0f890bb2-df10-4e60-93d6-b7bb45d5d606)
 
+``Gráfico Exportação``
+
+
+![grafico exportação ](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/40a95348-b6cb-4cf4-8acd-08e8e821550c)" 
+
 ## Cronograma
 ![WhatsApp Image 2024-04-10 at 22 04 25](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/18eeab2b-a706-4019-a0a4-9b5ec8f40fef)
 
