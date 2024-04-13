@@ -68,6 +68,9 @@ Sprint | Previsão | Status| Histórico|
 |04| 27/05/2024 a 17/06/2024| a fazer |[Ver Relatório]()  | 
 |Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório]() | 
 
+## Burndown
+
+
 ## Cronograma
 ![WhatsApp Image 2024-04-10 at 22 04 25](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/18eeab2b-a706-4019-a0a4-9b5ec8f40fef)
 
