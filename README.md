@@ -112,8 +112,8 @@ Sprint | Previsão | Status| Histórico|
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Prodct Owner | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Markdown | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
@@ -128,9 +128,9 @@ Sprint | Previsão | Status| Histórico|
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Proatividade| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 
 </details>
