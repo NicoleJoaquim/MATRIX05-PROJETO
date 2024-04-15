@@ -74,7 +74,9 @@ Sprint | Previsão | Status| Histórico|
 ``Gráfico Valor FOB``
 
 
-![grafico exportação ](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/40a95348-b6cb-4cf4-8acd-08e8e821550c)" 
+
+![WhatsApp Image 2024-04-13 at 00 48 19](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482609/3ef209ce-291d-4dab-bd83-26bc2398fa8e)
+ 
 
 ## Cronograma
 ![WhatsApp Image 2024-04-10 at 22 04 25](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/18eeab2b-a706-4019-a0a4-9b5ec8f40fef)
