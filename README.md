@@ -28,11 +28,11 @@ Trata-se de um projeto pedagógico alicerçado na Metodologia de Aprendizagem po
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Lucas Barsaglini   |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barsaglini-71774b188?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Barsaglini99)              |
+| Product Owner |  Isabela Carvalho Cardoso   |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-cardoso-b23a57276/) [![GitHub Badge] (https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/isabelacardd)             
 | Scrum Master  | Manassés Israel Tenório Marques |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manass%C3%A9s-ten%C3%B3rio-184182185?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MANASSES2710)     |
 | Developer Team  | Tatiane de Sousa Pereira             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tatiane-sousa-5b564625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/tatipink)        |
 | Developer Team  | Nicole Siqueira Joaquim               |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-siqueira-2538b1252?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/NicoleJoaquim/)        |
-|  Developer Team  | Isabela Carvalho Cardoso               |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-cardoso-b23a57276/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/isabelacardd)   |
+|  Developer Team  | Lucas Barsaglini             |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barsaglini-71774b188?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barsaglini-71774b188?trk=contact-info)   |
 |  Developer Team  | Eloisa Maria Lucia Wanderley da Rocha    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eloisa-rocha-aa6579302?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=whiteg)](https://github.com/Eloisamlwr)  
 
 
@@ -84,7 +84,10 @@ Sprint | Previsão | Status| Histórico|
 </div>
 
   
-# Backlog 
+# Backlog do produto
+
+
+# Backlog do sprint 1
   ![Captura de Tela (3)](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/11a75891-367e-4bef-a8a7-39ef2c3ca47b)
 
 <div align="center">
